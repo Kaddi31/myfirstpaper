@@ -1,8 +1,8 @@
 # myfirstpaper
-Software Carpentry Workshop
+A publication on my results on Software Carpentreology for the Greater Good.
 
 ## Abstract
-Useful contribution to the field of Software Carpentreology
+Expand on the Abstract
 
 ## Introduction
 introduct stuff
