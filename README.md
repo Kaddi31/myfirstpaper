@@ -2,6 +2,7 @@
 Software Carpentry Workshop
 
 ## Abstract
+Useful contribution to the field of Software Carpentreology
 
 ## Introduction
 
