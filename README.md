@@ -1,8 +1,8 @@
 # myfirstpaper
-A paper of results I achieved with my colleges. 
+A publication of results I achieved with my collaborator on software carpentreology. 
 
 ## Abstract
-Useful contribution to the field of Software Carpentreology
+Expand on the Abstract
 
 ## Introduction
 introduct stuff
